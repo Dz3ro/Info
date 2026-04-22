@@ -16,10 +16,10 @@ Just the minimal setup containing:
 [Firefox](https://www.firefox.com/)
 
 ## Notepad
-[Notepadqq](https://notepadqq.com/s/)
+[KWrite](https://apps.kde.org/kwrite/)
 
 ## IDE
-[Visual Studio Code](https://code.visualstudio.com/)
+[Kate](https://kate-editor.org/)
 
 ## Resource monitor
 [btop](https://github.com/aristocratos/btop)
@@ -30,6 +30,9 @@ Just the minimal setup containing:
 ## Drawing
 [KolourPaint](https://apps.kde.org/kolourpaint/)
 [Krita](https://krita.org/en/)
+
+
+
 
 
 
